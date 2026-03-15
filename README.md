@@ -1,16 +1,27 @@
-## Hi there 👋
+<br/>
 
-<!--
-**nidhinjs/nidhinjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me
+- I love building tools/projects as both practice and as a hobby
+- Currently learning C and exploring data science
+- Building open source projects and always picking up something new
+- Open to collaborating on projects - reach out anytime
+- 📧 nidhinjnel@gmail.com
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=nidhinjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=nidhinjs&theme=dark&hide_border=false)
+
+
+</div>
+
+---
+
+<br/>
+
+![Visitor Count](https://count.getloli.com/@nidhinjs?name=nidhinjs&theme=3d-num&padding=16&offset=0&align=center&scale=1.3&pixelated=1&darkmode=auto)
+
+</div>
