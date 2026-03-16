@@ -1,9 +1,6 @@
 <img src = "banner.png"/>
 
-<br/>
-
 ---
-<br/>
 
 # 💫 About Me
 - I love building tools/projects as both practice and as a hobby
