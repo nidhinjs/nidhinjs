@@ -1,31 +1,31 @@
-<img src = "banner.png"/>
+<img src="banner.png"/>
 
-<br/>
-
-  
-# 💫 About Me
-- I love building tools/projects as both practice and as a hobby
-- Currently learning C and exploring data science
-- Building open source projects and always picking up something new
-- Open to collaborating on projects - reach out anytime
-- 📧 nidhinjnel@gmail.com
-
-<br/>
-
----
-
-<br/>
-<br/>
-
-<div align = "center"> 
-
-![](https://github-readme-stats.vercel.app/api?username=nidhinjs&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=nidhinjs&theme=dark&hide_border=false)
-
-
+<div align="center">
+  <h1>Nidhin Joseph Nelson</h1>
+  <p><em>CS student &nbsp;·&nbsp; Open-source builder &nbsp;·&nbsp; Open to collab</em></p>
 </div>
 
-<br/>
-
 ---
 
+<table>
+<tr>
+<td width="55%" valign="middle">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinjs&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
+
+</td>
+<td width="45%" valign="middle" align="left">
+
+### About Me
+
+🛠️ &nbsp;Building projects as both practice and as a hobby  
+📚 &nbsp;Currently learning C and exploring data science  
+⭐ &nbsp;Actively building open-source and data related projects 
+🍵 &nbsp;Open to collaborating -- reach out anytime
+
+<br/>
+
+
+</td>
+</tr>
+</table>
