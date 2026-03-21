@@ -20,8 +20,8 @@
 
 🛠️ &nbsp;Building projects as both practice and as a hobby  
 📚 &nbsp;Currently learning C and exploring data science  
-⭐ &nbsp;Actively building open-source and data related projects 
-🍵 &nbsp;Open to collaborating -- reach out anytime
+⭐ &nbsp;Actively building open-source and data projects            
+🍵 &nbsp;Open to collaborating - reach out anytime
 
 <br/>
 
