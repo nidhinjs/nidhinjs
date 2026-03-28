@@ -7,25 +7,21 @@
 
 ---
 
+<div align="center">
+
 <table>
 <tr>
-<td width="55%" valign="middle">
+<td valign="middle" align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidhinjs&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
-
-</td>
-<td width="45%" valign="middle" align="left">
-
-### About Me
+<h3>About Me</h3>
 
 🛠️ &nbsp;Building projects as both practice and as a hobby  
 📚 &nbsp;Currently learning C and exploring data science  
-⭐ &nbsp;Actively building open-source and data projects            
-🍵 &nbsp;Open to collaborating - reach out anytime
-
-<br/>
-
+⭐ &nbsp;Actively building open-source and data projects  
+🍵 &nbsp;Open to collaborating — reach out anytime  
 
 </td>
 </tr>
 </table>
+
+</div>
